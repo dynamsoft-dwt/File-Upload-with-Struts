@@ -11,8 +11,8 @@ How to Run:
 
 References:
 -----------
-* Introduction to the Struts Web Framework
-* Struts File Upload Example
+* [Introduction to the Struts Web Framework][1]
+* [Struts File Upload Example][2]
 
 [1]:https://netbeans.org/kb/docs/web/quickstart-webapps-struts.html
 [2]:http://www.mkyong.com/struts/struts-file-upload-example/
