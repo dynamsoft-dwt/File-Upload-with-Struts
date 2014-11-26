@@ -3,6 +3,9 @@ File Upload with Struts
 
 The sample shows how to upload files with Struts. 
 
+Blog
+-----------
+[File Upload: Struts versus Dynamic Web TWAIN][1]
 
 How to Run:
 -----------
@@ -11,8 +14,9 @@ How to Run:
 
 References:
 -----------
-* [Introduction to the Struts Web Framework][1]
-* [Struts File Upload Example][2]
+* [Introduction to the Struts Web Framework][2]
+* [Struts File Upload Example][3]
 
-[1]:https://netbeans.org/kb/docs/web/quickstart-webapps-struts.html
-[2]:http://www.mkyong.com/struts/struts-file-upload-example/
+[1]:http://www.codepool.biz/struts/file-upload-struts-versus-dynamic-web-twain.html
+[2]:https://netbeans.org/kb/docs/web/quickstart-webapps-struts.html
+[3]:http://www.mkyong.com/struts/struts-file-upload-example/
